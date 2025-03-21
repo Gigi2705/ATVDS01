@@ -14,7 +14,7 @@ public class Produto {
         this.Tipo = "";
     }  
 
-    public Produto(int Id, String Nome, String Preco, String Tipo, String Descricao){ // Construtor com ID, Nome e Preço */
+    public Produto(int Id, String Nome, String Preco, String Tipo, String Descricao){ 
         this.Id = Id;
         this.Nome = Nome;
         this.Preco = Preco;
